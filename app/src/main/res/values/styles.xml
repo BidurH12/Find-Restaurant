@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="corner" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeWidth">4dp</item>
+        <item name="boxStrokeWidthFocused">4dp</item>
+        <item name="boxStrokeColor">#E1A500</item>
+        <item name="cornerRadius">10dp</item>
+    </style>
+</resources>
